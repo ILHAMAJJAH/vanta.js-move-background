@@ -1,0 +1,18 @@
+.fog {
+    display: flex;
+    flex-direction: column; /* Mengatur elemen menjadi kolom */
+    align-items: flex-start; /* Mengatur agar elemen berada di kiri */
+    height: 100vh;
+    padding-left: 20px;
+    justify-content: center; /* Mengatur elemen di tengah secara vertikal */
+}
+
+h1 {
+    margin: 0 0 20px 0; /* Menambahkan margin bawah 20px */
+    color: aliceblue;
+}
+
+p {
+    margin: 0; /* Menghilangkan margin default p */
+    color: aliceblue;
+}
